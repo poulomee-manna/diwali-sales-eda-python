@@ -36,11 +36,18 @@ Analyzed purchase behavior based on gender.
 Key Insight:
 Female customers made more purchases compared to male customers.
 
+## Gender Based Purchase Analysis
+![Gender Analysis](<img width="763" height="417" alt="gender_purchase_analysis" src="https://github.com/user-attachments/assets/8df4c492-6860-452c-8f6b-08f35fd99743" />)
+
 ### Age Group Analysis
 Analyzed which age group contributes most to sales.
 
 Key Insight:
 Age group **26-35** contributed the highest number of purchases.
+
+## Age Group Analysis
+![Age Group Analysis](<img width="787" height="413" alt="age_group_analysis" src="https://github.com/user-attachments/assets/5a658865-2b39-4984-a1d6-2736773ab9a9" />)
+
 
 ### State Analysis
 Identified states with the highest number of orders.
@@ -50,6 +57,9 @@ Top states by orders:
 1. Uttar Pradesh
 2. Maharashtra
 3. Karnataka
+
+## State Wise Sales Analysis
+![State Analysis](<img width="761" height="416" alt="state_sales_analysis" src="https://github.com/user-attachments/assets/6d9e6579-cc81-4105-bce5-5a5957b20bbb" />)
 
 ### Occupation Analysis
 Analyzed which occupations spend more during Diwali.
@@ -62,6 +72,9 @@ Identified most popular product categories.
 
 Key Insight:
 Food, Clothing and Electronics categories dominate sales.
+
+## Product Category Analysis
+![Product Analysis](<img width="748" height="418" alt="product_category_analysis" src="https://github.com/user-attachments/assets/0cf2dda3-f03b-40b6-9e4e-f80dabc6058f" />)
 
 ## Key Business Insights
 - Female customers are the primary buyers during Diwali.
