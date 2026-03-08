@@ -67,6 +67,10 @@ Analyzed which occupations spend more during Diwali.
 Key Insight:
 IT, Healthcare and Aviation sectors show higher spending.
 
+## State Wise Sales Analysis
+<img width="699" height="379" alt="image" src="https://github.com/user-attachments/assets/df31b186-4f98-460d-b190-547346e550b8" />
+
+
 ### Product Category Analysis
 Identified most popular product categories.
 
