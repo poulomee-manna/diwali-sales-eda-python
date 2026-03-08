@@ -1,6 +1,3 @@
-# diwali-sales-eda-python
-Exploratory Data Analysis of Diwali sales data using Python to uncover customer purchasing patterns and business insights.
-
 # Diwali Sales Analysis using Python
 Exploratory Data Analysis of Diwali sales data using Python to uncover customer purchasing patterns and business insights.
 
